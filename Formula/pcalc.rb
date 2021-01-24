@@ -4,7 +4,7 @@ class Pcalc < Formula
   desc "CLI Programming Calculator"
   homepage ""
   url "https://github.com/alt-romes/programmer-calculator/archive/v1.3.tar.gz"
-  sha256 "4d603b054258ca9ffa41fe0256b863cd75e093eb8e1a48b5861f583448f70430"
+  sha256 "282a87dcdc848b31a630cf5ce7eb1fd11cc3c6761a4cf7dd04ff81e82f1d045f"
   license "GNU General Public License v3.0"
 
   depends_on "cmake" => :build
